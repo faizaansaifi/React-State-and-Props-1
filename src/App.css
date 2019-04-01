@@ -1,0 +1,24 @@
+.App {
+  text-align:center;
+}
+
+.App{
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.counters{
+  display: inline-block;
+  width:92px;
+  height: 40px;
+}
+
+input{
+  width:20px;
+}
+.all{
+  margin-bottom:20px;
+}
